@@ -1,0 +1,229 @@
+body{
+    margin: 0;
+}
+header{
+    height: 30vh;
+    width:100%;
+    display: flex;
+    background-color: rgb(134, 131, 131);
+    justify-content: space-evenly;
+    align-items: center;
+}
+#left>a{
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+    font-size: large;
+}
+#main{
+    width: 35%;
+    height: 30%;
+     color: rgb(44, 43, 43);
+    font-family: 'Shippori Mincho', serif;
+    font-size:4vmax;
+   margin-left: 20%;
+    
+    
+}
+
+.coll{
+    margin-left: -8vh;
+    font-size:5vmax;
+    margin-top: -10%;
+   
+}
+
+
+#right{
+    display: flex;
+    /* margin-left: 60%; */
+    height: 20%;
+    width: 7%;
+    font-size: large;
+margin-bottom: 10%;
+/* margin-left: 10%; */
+    
+}
+#right >a{
+    padding: 10%;
+    color: rgb(55, 53, 53) ;
+
+}
+
+
+#section1{
+    
+    height:90vh;
+    width:100%;
+    background-image:url(img/background.webp) ;
+    background-repeat: no-repeat;
+    background-size:100%  100%;
+    
+}
+   .leftbox{
+    width:200vh;
+    height:5vh;
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 0px;
+    margin-bottom:10px;
+    margin-left: 1%;
+    font-weight: 800;
+      }
+
+      .leftbox >a{
+        height: 4vh;
+      
+        color:rgb(255, 255, 255);
+        text-decoration: none;
+        margin-top: -3%;
+
+      }
+      .leftbox > a:hover{
+        border-bottom: 2px solid rgb(255, 253, 253);
+      }
+      
+      
+
+     
+       
+       .box{
+        
+        width:30%;
+        height:30px;
+        margin-left: 1000px;
+        margin-top: 8%;
+        color: aliceblue;
+        font-size:4vh;
+        text-align: center;
+        font-family: 'Shippori Mincho', serif;
+       }
+     
+       .box2{
+       
+        width:40%;
+        height:50px;
+        margin-left: 900px;
+        margin-top:0%;
+        color: aliceblue;
+        font-size:8vh;
+        text-align: center;
+        font-family: 'Shippori Mincho', serif;
+       }
+
+       .DIAMOND > p{
+        width:30%;
+        height:30px;
+        margin-left: 1000px;
+        margin-top: 5%;
+        color: aliceblue;
+        font-size:4vh;
+        text-align: center;
+        font-family: 'Shippori Mincho', serif;
+
+       }
+
+       button{
+        border: 2px solid white;
+        width:15%;
+        height:9%;
+        margin-left:70%;
+        margin-top:6%;
+       
+       }
+
+
+       .btn{
+        color: rgb(2, 3, 3);
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        margin-left: 73%;
+       }
+       .btn:hover{
+           background-color: rgb(113, 115, 117);
+           color: rgb(255, 255, 255);
+       }
+
+
+        footer{
+          
+           height: 20%;
+           
+           background-color: rgb(176, 171, 171);
+           display: flex;
+        }
+
+        .left11{
+        
+            width: 20%;
+            height:20%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size:3vh;
+           color:rgb(51, 50, 50) ;
+        }
+        .left11 a{
+            font-size:medium;
+        }
+
+
+        .mid22{
+            width: 60%;
+            margin-top: 0%;
+            text-align: center;
+        }
+
+        .mid22 h4{
+            height: 30%;
+            width:40%;
+            margin-left: 40vh;
+            font-size:8vh;
+            color: rgb(51, 50, 50) ;
+
+        }
+
+        .mid22 p{
+           margin-left: 10%;
+            margin-top: -6%;
+            font-size: large;
+        }
+
+
+       
+
+        
+        .right33{
+           
+            width: 20%;
+            height:30vh;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size:3vh;
+            color:rgb(51, 50, 50) ;
+
+        } 
+
+        .left11 >a{
+            color: rgb(0, 0, 0);
+            text-decoration: none;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 3%;
+            
+        }
+
+        .right33 > a{
+            color: black;
+            text-decoration: none;
+            font-size:medium;
+        }
+
+        .right33 > a{
+            color: black;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 3%;
+        }    
+
+
+       
